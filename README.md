@@ -31,5 +31,6 @@ Sport pertains to any form of competitive physical activity or game[1] that aims
 ***
 
 ### - Pithy Quotes I Recommend
- >The way to get started is to quit talking and begin doing - *Walt Disney*
- >If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough - *Oprah Winfrey*
+ > The way to get started is to quit talking and begin doing - *Walt Disney*
+ > Life is what happens when you're busy making other plans - *John Lennon*
+
