@@ -32,5 +32,6 @@ Sport pertains to any form of competitive physical activity or game[1] that aims
 
 ### - Pithy Quotes I Recommend
  > The way to get started is to quit talking and begin doing - *Walt Disney*
+ 
  > Life is what happens when you're busy making other plans - *John Lennon*
 
