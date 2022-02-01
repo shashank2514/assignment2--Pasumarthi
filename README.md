@@ -32,6 +32,32 @@ Sport pertains to any form of competitive physical activity or game[1] that aims
 
 ### - Pithy Quotes I Recommend
  > The way to get started is to quit talking and begin doing - *Walt Disney*
- 
+
  > Life is what happens when you're busy making other plans - *John Lennon*
+
+***
+
+### -  Creating A Code Fencing
+> Combinatorial algorithms contains three types Fundamentals,Techniques,Tasks.Now i am taking an algorithm from Fundamentals i.e., Finding Power of Factorial Divisor.
+
+Finding Power of Factorial Divisor- The efficient approach is based on Legendre’s formula. The following steps are followed: While dealing with this problem to find the maximum power of N that divides M factorial (M!), N can be anything prime or composite. Thus, in this case,
+First, the prime factors of a given number N are calculated.
+Then calculate the highest power from all prime factors that divides M!.
+Finally, we’ll calculate the prime factor with the lowest value of the highest power of N that divides M!.In other words, return the minimum of all calculated powers.
+ 
+<https://www.codingninjas.com/codestudio/library/finding-power-of-factorial-divisor>
+
+Code for Finding Power of Factorial Divisor
+
+```
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+```
+<https://cp-algorithms.com/algebra/factorial-divisors.html>
 
