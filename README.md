@@ -22,7 +22,7 @@ The Nearest Airport to TacoBells is Kansas City (MCI) Airport
 Sport pertains to any form of competitive physical activity or game[1] that aims to use, maintain or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators.Below table created gives the first column of name of sports,second column gives the location,tird column gives the amount of money required.
 
 | Name of The Sport   | Location Of The Sport     | Price |
-|---------------------|:-------------:------------|------:|
+|---------------------|---------------------------|-------|
 | Table Tennis        |  West BEngal              | $100  |
 | Swimming            |  Kerala                   | $120  |
 | Archery             |  Bhutan                   | $170  |
