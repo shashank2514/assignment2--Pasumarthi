@@ -10,3 +10,8 @@ The Nearest Airport to TacoBells is Kansas City (MCI) Airport
 2. Follow I-29 N to US-71 N in Jefferson Township. Take exit 56A from I-29 N  38 min (43.5 mi)
 3. Follow US-71 N to your destination in Maryville  31 min (31.5 mi)
 4. TacoBell Will be on the left side 
+
+### Recommended Items For Taco Bells
+* VEGGIE BURRITO SUPREME®
+* BLACK BEAN GRILLED CHEESE BURRITO
+***
