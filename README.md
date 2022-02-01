@@ -27,3 +27,9 @@ Sport pertains to any form of competitive physical activity or game[1] that aims
 | Swimming            |  Kerala                   | $120  |
 | Archery             |  Bhutan                   | $170  |
 | Wrestling           |  India                    | $190  |
+
+***
+
+### - Pithy Quotes I Recommend
+1. >The way to get started is to quit talking and begin doing - *Walt Disney*
+2. >If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough - *Oprah Winfrey*
