@@ -23,7 +23,7 @@ Sport pertains to any form of competitive physical activity or game[1] that aims
 
 | Name of The Sport   | Location Of The Sport     | Price |
 |---------------------|---------------------------|-------|
-| Table Tennis        |  West BEngal              | $100  |
+| Table Tennis        |  West Bengal              | $100  |
 | Swimming            |  Kerala                   | $120  |
 | Archery             |  Bhutan                   | $170  |
 | Wrestling           |  India                    | $190  |
